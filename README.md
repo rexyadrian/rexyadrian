@@ -30,6 +30,6 @@
 - I enjoy breaking things (in code) just to fix them better.
 - Very curious about **how game development works behind the scenes**.  
 - I ask “**kenapa**” way too much, but I think that’s how devs grow.
-- I’ve always thought Java is a cool programming language, but I often struggle understanding its code.
+- I’ve always thought Java is a cool programming language, but I just can't prove it.
 
 ---
