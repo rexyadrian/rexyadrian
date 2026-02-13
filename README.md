@@ -2,7 +2,7 @@
   Hello There, I'm Rexy!
 </h1>
 <p align="center">
-  a Computer Science student | a part-time coder, full-time overthinker
+  a Computer Science student | a part-time coder, full-time monster hunter
 </p>
 
 ---
